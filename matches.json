@@ -1,7 +1,7 @@
 [
   {
     "descricao": "Eliminatórias Copa 2022",
-    "local:": {
+    "local": {
     "nome": "Maracanã",
     "imagem": "https://s3.static.brasilescola.uol.com.br/img/2019/12/estadio-maracana-novo.jpg"
     },
@@ -19,7 +19,7 @@
   
   {
     "descricao": "Eliminatórias Copa 2022",
-    "local:": {
+    "local": {
     "nome": "Estádio Centenário",
     "imagem": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e4/57/88/desde-la-tribuna.jpg?w=1200&h=-1&s=1"
     },
@@ -36,7 +36,7 @@
   },
   {
     "descricao": "Eliminatórias Copa 2022",
-    "local:": {
+    "local": {
     "nome": "Maracanã",
     "imagem": "https://s3.static.brasilescola.uol.com.br/img/2019/12/estadio-maracana-novo.jpg"
     },
